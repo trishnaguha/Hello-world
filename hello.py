@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 print("Hello World")
 print("I am learning git and github.It's cool!")
 print("I am surprised to know that github gives unlimited access to create new repositories and unlimites access to projects!")
